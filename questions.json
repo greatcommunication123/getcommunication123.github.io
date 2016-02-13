@@ -5,8 +5,28 @@
 			"correctAnswerId": 2
 		},
 		{
-			"question": "Ulubiony kolor Zuzanny to:", 
+			"question": "Ulubiony kolor Zuzy:", 
 			"answers": ["Żółty", "Karmazynowy", "Indygo", "Czerwony", "Piaskowy", "Czarny", "Łososiowy", "Różowy"],
 			"correctAnswerId": 7
-		} 
+		},
+		{
+			"question": "Którego miasta jeszcze nie odwiedziła?", 
+			"answers": ["Wrocław", "San Diego", "Marsylia", "Kraków", "Władysławowo", "Nowa Cerkiew", "Kalisz", "Kosztrzyn nad Odrą"],
+			"correctAnswerId": 6	
+		},
+		{
+			"question": "Wybierz prawidłowe podsumowanie:", 
+			"answers": ["Spoko", "Spoczix", "Spoczi", "Spokkko", "Spokoooo", "Sponio", "Spoki oki", "Oki spoki"],
+			"correctAnswerId": 2	
+		}, 
+		{
+			"question": "Ulubiona pozycja seksualna", 
+			"answers": ["Klasyczna \"na misjonarza\"", "\"Na pieska\"", "\"Sexy V\"", "69", "\"Ognisty krąg\"", "\"Rozżarzony trójkąt\"", "\"Mapły\"", "Nie wiem"],
+			"correctAnswerId": 7	
+		}, 
+		{
+			"question": "Dokończ zdanie: nie ...", 
+			"answers": ["... masz", "... stój", "... myj", "... pal", "... wiesz", "... pij", "... denerwuj mnie", "... mogłabym"],
+			"correctAnswerId": 5	
+		}
 	]
