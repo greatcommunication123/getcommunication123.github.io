@@ -56,7 +56,7 @@
 		},
 		{
 			"question": "W letnie, słoneczne popołudnia Zuzka lubi:", 
-			"answers": ["Uczyć królika przeskakiwać między poduszkami", "Opalać się na plaży", "Pić kefiry naturalne", "Biegać w parku", "Patrzeć w niebo i rozmyślać nad sensem swojego jestestwa", "1453"],
+			"answers": ["Uczyć królika przeskakiwać między poduszkami", "Opalać się na plaży", "Pić kefiry naturalne", "Biegać w parku", "Patrzeć w niebo i rozmyślać nad sensem swojego jestestwa", "Lepić pierogi"],
 			"correctAnswerId": 0	
 		},
 		{
@@ -71,7 +71,7 @@
 		},
 		{
 			"question": "Kiedy Zuzinka wygrałaby 1 milion dolarów amerykańskich:", 
-			"answers": ["Kupiłaby Mustanga Shelby", "Założyłaby klub miłośników mięsa \"Najlepszy befsztyk\" w Texasie", "Założyłaby szkołę językową \"Sprawny języczek\"", "Większość oddałaby potrzebującym", "Rozpoczęłaby hurtową produkcję hummusu", "Nie wiem"],
+			"answers": ["Kupiłaby Mustanga Shelby", "Założyłaby klub ochrony zwierząt \"Ratuj świnię\" w Texasie", "Założyłaby szkołę językową \"Sprawny języczek\"", "Większość oddałaby potrzebującym", "Rozpoczęłaby hurtową produkcję hummusu", "Odłożyłaby na lokatę w banku"],
 			"correctAnswerId": 3	
 		}
 	]
