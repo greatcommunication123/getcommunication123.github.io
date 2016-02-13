@@ -27,7 +27,7 @@
 		{
 			"question": "Dokończ zdanie: nie ...", 
 			"answers": ["... masz", "... stój", "... myj", "... pal", "... wiesz", "... pij", "... denerwuj mnie", "... mogłabym"],
-			"correctAnswerId": 5	
+			"correctAnswerId": 4	
 		},
 		{
 			"question": "Jej chłopak nie jest:", 
