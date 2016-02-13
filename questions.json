@@ -28,5 +28,25 @@
 			"question": "Dokończ zdanie: nie ...", 
 			"answers": ["... masz", "... stój", "... myj", "... pal", "... wiesz", "... pij", "... denerwuj mnie", "... mogłabym"],
 			"correctAnswerId": 5	
+		},
+		{
+			"question": "Jej chłopak nie jest:", 
+			"answers": ["Programistą", "Raperem", "Przedsiębiorcą", "Malarzem", "Gitarzystą", "Sportowcem"],
+			"correctAnswerId": 2	
+		},
+		{
+			"question": "Ulubione wydarzenie kościelne Zuzy to:", 
+			"answers": ["Boże Ciało", "Roraty", "Zielone Świątki", "Wielkanoc", "Boże Narodzenie", "Wniebowstąpienie Najświętszej Maryi Panny (zawsze dziewicy)"],
+			"correctAnswerId": 1	
+		},
+		{
+			"question": "Optymalna ilość dzidz jaką kiedyś chciałby mieć:", 
+			"answers": ["Wcale", "Jedno", "Dwoje", "Troje", "Troje (trojaczki)", "Czworo", "Więcej"],
+			"correctAnswerId": 4	
+		},
+		{
+			"question": "Zuzanna jest:", 
+			"answers": ["Komunistką", "Pozytywistką", "Homoseksualistką", "Feministką", "Księżniczką Krainy Lodu", "Gimnazjalistką"],
+			"correctAnswerId": 3	
 		}
 	]
