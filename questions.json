@@ -32,7 +32,7 @@
 		{
 			"question": "Jej chłopak nie jest:", 
 			"answers": ["Programistą", "Raperem", "Przedsiębiorcą", "Malarzem", "Gitarzystą", "Sportowcem"],
-			"correctAnswerId": 2	
+			"correctAnswerId": 3	
 		},
 		{
 			"question": "Ulubione wydarzenie kościelne Zuzy to:", 
