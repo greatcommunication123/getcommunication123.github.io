@@ -20,7 +20,7 @@
 			"correctAnswerId": 2	
 		}, 
 		{
-			"question": "Ulubiona pozycja seksualna", 
+			"question": "Ulubiona pozycja seksualna:", 
 			"answers": ["Klasyczna \"na misjonarza\"", "\"Na pieska\"", "\"Sexy V\"", "69", "\"Ognisty krąg\"", "\"Rozżarzony trójkąt\"", "\"Mapły\"", "Nie wiem"],
 			"correctAnswerId": 7	
 		}, 
@@ -47,6 +47,31 @@
 		{
 			"question": "Zuzanna jest:", 
 			"answers": ["Komunistką", "Pozytywistką", "Homoseksualistką", "Feministką", "Księżniczką Krainy Lodu", "Gimnazjalistką"],
+			"correctAnswerId": 3	
+		},
+		{
+			"question": "Pin do maszyny:", 
+			"answers": ["1234", "1980", "1970", "1995", "2020", "1453"],
+			"correctAnswerId": 2	
+		},
+		{
+			"question": "W letnie, słoneczne popołudnia Zuzka lubi:", 
+			"answers": ["Uczyć królika przeskakiwać między poduszkami", "Opalać się na plaży", "Pić kefiry naturalne", "Biegać w parku", "Patrzeć w niebo i rozmyślać nad sensem swojego jestestwa", "1453"],
+			"correctAnswerId": 0	
+		},
+		{
+			"question": "England, Manchester, Upper Kent Road 25 to:", 
+			"answers": ["Nora", "Dziura", "Slams", "Mieszkanie", "Domek", "Kwatera"],
+			"correctAnswerId": 2	
+		},
+		{
+			"question": "Przy swoim chłopaku, Zuza najbardziej wstydzi się:", 
+			"answers": ["Śpiewać", "Tańczyć", "Skakać", "Recytować wiersze", "Robić dyktanda", "Chrapać"],
+			"correctAnswerId": 0	
+		},
+		{
+			"question": "Kiedy Zuzinka wygrałaby 1 milion dolarów amerykańskich:", 
+			"answers": ["Kupiłaby Mustanga Shelby", "Założyłaby klub miłośników mięsa \"Najlepszy befsztyk\" w Texasie", "Założyłaby szkołę językową \"Sprawny języczek\"", "Większość oddałaby potrzebującym", "Rozpoczęłaby hurtową produkcję hummusu", "Nie wiem"],
 			"correctAnswerId": 3	
 		}
 	]
