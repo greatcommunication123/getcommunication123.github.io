@@ -90,14 +90,14 @@
 			"correctAnswerId": 5	
 		},
 		{
-			"question": "Zuza nałogowo:", 
-			"answers": ["Obgryza paznokcie", "Przewija tumblr.com", "Pali fajki", "Jjje ciastka", "Jjje hummus", "Jjje szpinak"],
-			"correctAnswerId": 2	
+			"question": "Zuza nałogowo zajjada:", 
+			"answers": ["Parcepan", "Frytki", "Lody", "Ciastka", "Hummus", "Szpinak"],
+			"correctAnswerId": 3	
 		},
 		{
 			"question": "Aktualny chłopak Zuzy to:", 
 			"answers": ["Zuza nie ma teraz chłopaka", "Jej pierwszy", "Jej drugi", "Jej trzeci", "Jej czwarty", "Jej piąty", "Zuza ma teraz dziewczynę"],
-			"correctAnswerId": 2	
+			"correctAnswerId": 3	
 		},
 		{
 			"question": "Reakcja Zuzanny kiedy coś pójdzie nie po jej myśli to:", 
@@ -108,5 +108,10 @@
 			"question": "Zuza upija się:", 
 			"answers": ["Na widok butelki wina", "Po jednej lampce wina", "Po dwóch lampkach wina", "Po połowie butelki wina","Po 3/4 butelki wina", "Po całej butelce wina"],
 			"correctAnswerId": 4	
+		},
+		{
+			"question": "Jak mocno Zuzanna lubi swojego chłopaka:", 
+			"answers": ["Nie lubi", "Trochę lubi", "Bardzo lubi", "Uwielbia","właściwie to kocha", "Kocha"],
+			"correctAnswerId": 3		
 		}
 	]
