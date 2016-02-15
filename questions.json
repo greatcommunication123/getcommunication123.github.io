@@ -21,7 +21,7 @@
 		}, 
 		{
 			"question": "Ulubiona pozycja seksualna:", 
-			"answers": ["Klasyczna \"na misjonarza\"", "\"Na pieska\"", "\"Sexy V\"", "69", "\"Ognisty krąg\"", "\"Rozżarzony trójkąt\"", "\"Mapły\"", "Nie wiem"],
+			"answers": ["Klasyczna \"na misjonarza\"", "\"Na pieska\"", "\"Sexy V\"", "69", "\"Ognisty krąg\"", "\"Rozżarzony trójkąt\"", "\"Małpy\"", "Nie wiem"],
 			"correctAnswerId": 7	
 		}, 
 		{
@@ -40,9 +40,9 @@
 			"correctAnswerId": 1	
 		},
 		{
-			"question": "Optymalna ilość dzidz jaką kiedyś chciałby mieć:", 
+			"question": "Optymalna ilość dzieci jaką kiedyś chciałby mieć:", 
 			"answers": ["Wcale", "Jedno", "Dwoje", "Troje", "Troje (trojaczki)", "Czworo", "Więcej"],
-			"correctAnswerId": 4	
+			"correctAnswerId": 2	
 		},
 		{
 			"question": "Zuzanna jest:", 
@@ -61,7 +61,7 @@
 		},
 		{
 			"question": "England, Manchester, Upper Kent Road 25 to:", 
-			"answers": ["Nora", "Dziura", "Slams", "Mieszkanie", "Domek", "Kwatera"],
+			"answers": ["Nora", "Dziura", "Slums", "Mieszkanie", "Domek", "Kwatera"],
 			"correctAnswerId": 2	
 		},
 		{
@@ -73,5 +73,40 @@
 			"question": "Kiedy Zuzinka wygrałaby 1 milion dolarów amerykańskich:", 
 			"answers": ["Kupiłaby Mustanga Shelby", "Założyłaby klub ochrony zwierząt \"Ratuj świnię\" w Texasie", "Założyłaby szkołę językową \"Sprawny języczek\"", "Większość oddałaby potrzebującym", "Rozpoczęłaby hurtową produkcję hummusu", "Odłożyłaby na lokatę w banku"],
 			"correctAnswerId": 3	
+		},
+		{
+			"question": "Zaznacz fetysz Zuzinki:", 
+			"answers": ["Całowanie stóp", "Duszenie", "Podpalanie", "\"Złoty deszcz\"", "Umięśnione łydki", "Bojowe okrzyki", "Uciskanie w okolicach żeber"],
+			"correctAnswerId": 6	
+		},
+		{
+			"question": "Wybierz odpowiedni język programowania:", 
+			"answers": ["Python", "C", "C++", "Haskell", "LISP", "Java", "Objective-C", "Scala", "C#"],
+			"correctAnswerId": 5	
+		},
+		{
+			"question": "Wybierz serię filmów którą Zuza ceni najbardziej:", 
+			"answers": ["Harry Potter", "Władca Pierścieni", "Opowieści z Narni", "Szklana pułapka", "Star Wars", "James Bond"],
+			"correctAnswerId": 5	
+		},
+		{
+			"question": "Zuza nałogowo:", 
+			"answers": ["Obgryza paznokcie", "Przewija tumblr.com", "Pali fajki", "Jjje ciastka", "Jjje hummus", "Jjje szpinak"],
+			"correctAnswerId": 2	
+		},
+		{
+			"question": "Aktualny chłopak Zuzy to:", 
+			"answers": ["Zuza nie ma teraz chłopaka", "Jej pierwszy", "Jej drugi", "Jej trzeci", "Jej czwarty", "Jej piąty", "Zuza ma teraz dziewczynę"],
+			"correctAnswerId": 2	
+		},
+		{
+			"question": "Reakcja Zuzanny kiedy coś pójdzie nie po jej myśli to:", 
+			"answers": ["Ja jebię", "Ja pierdolę", "Kurcze", "Kurczaki", "Ojej", "Ooooch", "Fuck"],
+			"correctAnswerId": 5	
+		},
+		{
+			"question": "Zuza upija się:", 
+			"answers": ["Na widok butelki wina", "Po jednej lampce wina", "Po dwóch lampkach wina", "Po połowie butelki wina","Po 3/4 butelki wina", "Po całej butelce wina"],
+			"correctAnswerId": 4	
 		}
 	]
