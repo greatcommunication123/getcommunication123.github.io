@@ -111,7 +111,17 @@
 		},
 		{
 			"question": "Jak mocno Zuzanna lubi swojego chłopaka:", 
-			"answers": ["Nie lubi", "Trochę lubi", "Bardzo lubi", "Uwielbia","właściwie to kocha", "Kocha"],
+			"answers": ["Nie lubi", "Trochę lubi", "Bardzo lubi", "Uwielbia","Właściwie to kocha", "Kocha"],
 			"correctAnswerId": 3		
+		},
+		{
+			"question": "Awaryjne lądowanie Zuzanny w listopadzie 2015:", 
+			"answers": ["Odbyło się na wodach Bałtyku", "Samolot zawrócił do Manchesteru", "Odbyło się w Bydgoszczy", "Odbyło się w Warszawie","Odbyło się w Radomiu"],
+			"correctAnswerId": 3		
+		},
+		{
+			"question": "Zaznacz co Zuza uważa na temat spóźniania się na umówione spotkanie:", 
+			"answers": ["Spóźnianie się jest w dobrym guście", "Kategorycznie nie wolno się spóźniać", "Raz można, a raz nie - to zależy", "Należy się spóźniać zawsze o 10 minut","Należy się spóźniać zawsze o 15 minut"],
+			"correctAnswerId": 0		
 		}
 	]
