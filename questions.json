@@ -128,5 +128,10 @@
 			"question": "Zaznacz datę straty czystości", 
 			"answers": ["10 września 2015", "11 listopada 2015", "24 grudnia 2015", "1 stycznia 2016","14 luty 2016", "19 lutego 2016", "28 lutego 2016"],
 			"correctAnswerId": 5		
+		},
+		{
+			"question": "Podaj wartość licznika:", 
+			"answers": ["-1", "0", "1", "10", "11","100", "1000", "100000"],
+			"correctAnswerId": 3		
 		}
 	]
