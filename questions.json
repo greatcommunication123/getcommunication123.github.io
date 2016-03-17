@@ -133,5 +133,10 @@
 			"question": "Podaj wartość licznika:", 
 			"answers": ["-1", "0", "1", "10", "11","100", "1000", "100000"],
 			"correctAnswerId": 3		
+		},
+		{
+			"question": "Love is", 
+			"answers": ["me", "great", "spoczi", "most exciting thing I've ever made", "stupid", "all", "all around", "for loosers"],
+			"correctAnswerId": 6		
 		}
 	]
