@@ -131,8 +131,8 @@
 		},
 		{
 			"question": "Podaj wartość licznika:", 
-			"answers": ["-1", "0", "1", "10", "11","100", "1000", "100000"],
-			"correctAnswerId": 3		
+			"answers": ["0", "1", "12", "13", "14", "15", "16", "17, "18", "20", "30"],
+			"correctAnswerId": 8		
 		},
 		{
 			"question": "Love is", 
