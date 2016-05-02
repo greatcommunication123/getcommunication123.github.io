@@ -1,7 +1,7 @@
 [
 		{
 			"question": "Zabawy erotyczne to inaczej:", 
-			"answers": ["Sex", "Stosunek płciowy", "Akcja", "Kopulacja", "Dzwonienie", "Gruchanie", "Mizianie", "Je*anie"],
+			"answers": ["Sex", "Stosunek płciowy", "Akcja", "Kopulacja", "Dzwonienie", "Gruchanie", "Mizianie"],
 			"correctAnswerId": 2
 		},
 		{
@@ -20,8 +20,8 @@
 			"correctAnswerId": 2	
 		}, 
 		{
-			"question": "Ulubiona pozycja seksualna:", 
-			"answers": ["Klasyczna \"na misjonarza\"", "\"Na pieska\"", "\"Sexy V\"", "69", "\"Ognisty krąg\"", "\"Rozżarzony trójkąt\"", "\"Małpy\"", "Nie wiem"],
+			"question": W jaki sposób Zuz lubi się kochać?", 
+			"answers": ["Klasyczna \"na misjonarza\"", "\"Na pieska\"", "\"Sexy V\"", "69", "\"Ognisty krąg\"", "\"Rozżarzony trójkąt\"", "\"Małpy\"", "Nie wiesz"],
 			"correctAnswerId": 7	
 		}, 
 		{
@@ -75,7 +75,7 @@
 			"correctAnswerId": 3	
 		},
 		{
-			"question": "Zaznacz fetysz Zuzinki:", 
+			"question": "Zuzinka uwielbia:", 
 			"answers": ["Całowanie stóp", "Duszenie", "Podpalanie", "\"Złoty deszcz\"", "Umięśnione łydki", "Bojowe okrzyki", "Uciskanie w okolicach żeber"],
 			"correctAnswerId": 6	
 		},
