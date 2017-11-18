@@ -125,7 +125,7 @@
 			"correctAnswerId": 0		
 		},
 		{
-			"question": "Zaznacz datę straty czystości", 
+			"question": "Zaznacz ważną datę", 
 			"answers": ["10 września 2015", "11 listopada 2015", "24 grudnia 2015", "1 stycznia 2016","14 luty 2016", "19 lutego 2016", "28 lutego 2016"],
 			"correctAnswerId": 5		
 		},
@@ -138,5 +138,10 @@
 			"question": "Love is", 
 			"answers": ["me", "great", "spoczi", "most exciting thing I've ever made", "stupid", "all", "all around", "for loosers"],
 			"correctAnswerId": 6		
+		},
+		{
+			"question": "Jesteśmy", 
+			"answers": ["Pieskami", "Kotkamit", "Źabkami", "Mysiami"],
+			"correctAnswerId": 3		
 		}
 	]
